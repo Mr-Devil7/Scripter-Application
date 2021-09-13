@@ -1,4 +1,3 @@
-# Scripter-Application
-<h1>Scripter Application for Hidden Devs<h1>
+<h1>Scripter Application for Hidden Devs</h1>
 
-DO NOT COPY ANY OF THE CODE!
+ <h2> DO NOT COPY ANY OF THE CODE!</h2>
